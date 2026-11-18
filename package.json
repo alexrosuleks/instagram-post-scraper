@@ -1,0 +1,20 @@
+{
+  "name": "instagram-post-scraper",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Instagram Post Scraper: Scrape public Instagram posts from usernames, profile URLs, or post URLs. Get captions, hashtags, likes, comments count, media URLs, and timestamps for every post.",
+  "main": "example.js",
+  "scripts": {
+    "start": "node example.js"
+  },
+  "keywords": [
+    "scraper",
+    "web-scraping",
+    "scrapely",
+    "instagram"
+  ],
+  "dependencies": {
+    "scrapely-client": "^2.25.15"
+  },
+  "license": "MIT"
+}
